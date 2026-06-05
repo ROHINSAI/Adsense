@@ -1,0 +1,24 @@
+{
+  "id": "template_twitter_urgent_109chars_20260603_160944",
+  "content": "🚨 Flash Sale Alert! 50% off all premium plans for the next 24 hours only! Don't miss out ⏰ #LimitedTime #Sale",
+  "metadata": {
+    "platform": "twitter",
+    "tone": "urgent",
+    "category": "general",
+    "char_length": 109,
+    "word_count": 21,
+    "template_type": "text"
+  },
+  "source": "manual_template",
+  "created_at": "2026-06-03T16:09:44.407224",
+  "updated_at": "2026-06-03T16:09:44.407224",
+  "content_type": "template",
+  "platform": "twitter",
+  "tone": "urgent",
+  "category": "general",
+  "tags": [
+    "sale",
+    "urgent",
+    "limited"
+  ]
+}

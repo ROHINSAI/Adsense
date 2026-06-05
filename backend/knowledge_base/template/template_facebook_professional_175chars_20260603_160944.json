@@ -1,0 +1,24 @@
+{
+  "id": "template_facebook_professional_175chars_20260603_160944",
+  "content": "Discover how our comprehensive business solution helped Sarah increase her revenue by 150% in just 6 months. Read her success story and see how we can help your business grow.",
+  "metadata": {
+    "platform": "facebook",
+    "tone": "professional",
+    "category": "business",
+    "char_length": 175,
+    "word_count": 30,
+    "template_type": "text"
+  },
+  "source": "manual_template",
+  "created_at": "2026-06-03T16:09:44.407186",
+  "updated_at": "2026-06-03T16:09:44.407186",
+  "content_type": "template",
+  "platform": "facebook",
+  "tone": "professional",
+  "category": "business",
+  "tags": [
+    "business",
+    "success",
+    "growth"
+  ]
+}

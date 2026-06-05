@@ -1,0 +1,26 @@
+{
+  "id": "example_linkedin_general_20260603_160944",
+  "content": "LinkedIn ads perform best with professional tone, industry insights, and thought leadership content. Focus on business value and expertise demonstration.",
+  "metadata": {
+    "platform": "linkedin",
+    "tone": "general",
+    "char_length": 153,
+    "word_count": 20,
+    "engagement_rate": 0.75,
+    "click_through_rate": 0.025,
+    "conversions": 120,
+    "performance_score": 120.775
+  },
+  "source": "successful_examples",
+  "created_at": "2026-06-03T16:09:44.407621",
+  "updated_at": "2026-06-03T16:09:44.407621",
+  "content_type": "example",
+  "platform": "linkedin",
+  "tone": "general",
+  "category": "successful",
+  "tags": [
+    "best_practices",
+    "linkedin",
+    "professional"
+  ]
+}

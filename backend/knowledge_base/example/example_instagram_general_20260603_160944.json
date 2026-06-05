@@ -1,0 +1,26 @@
+{
+  "id": "example_instagram_general_20260603_160944",
+  "content": "Instagram ads perform best with visually striking images, short compelling copy (under 100 characters), and 5-10 relevant hashtags. Focus on lifestyle and aspirational content.",
+  "metadata": {
+    "platform": "instagram",
+    "tone": "general",
+    "char_length": 176,
+    "word_count": 24,
+    "engagement_rate": 0.85,
+    "click_through_rate": 0.03,
+    "conversions": 150,
+    "performance_score": 150.88
+  },
+  "source": "successful_examples",
+  "created_at": "2026-06-03T16:09:44.407523",
+  "updated_at": "2026-06-03T16:09:44.407523",
+  "content_type": "example",
+  "platform": "instagram",
+  "tone": "general",
+  "category": "successful",
+  "tags": [
+    "best_practices",
+    "instagram",
+    "visual"
+  ]
+}

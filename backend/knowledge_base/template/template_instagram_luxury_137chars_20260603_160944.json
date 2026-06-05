@@ -1,0 +1,24 @@
+{
+  "id": "template_instagram_luxury_137chars_20260603_160944",
+  "content": "✨ Elevate your style game with our premium collection. Limited time offer: 30% off everything! Shop now and shine bright. #FashionForward",
+  "metadata": {
+    "platform": "instagram",
+    "tone": "luxury",
+    "category": "fashion",
+    "char_length": 137,
+    "word_count": 21,
+    "template_type": "text"
+  },
+  "source": "manual_template",
+  "created_at": "2026-06-03T16:09:44.407153",
+  "updated_at": "2026-06-03T16:09:44.407153",
+  "content_type": "template",
+  "platform": "instagram",
+  "tone": "luxury",
+  "category": "fashion",
+  "tags": [
+    "fashion",
+    "luxury",
+    "sale"
+  ]
+}
