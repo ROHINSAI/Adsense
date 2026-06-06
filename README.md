@@ -2,24 +2,6 @@
 
 Transform your ideas into platform-perfect ads with AI-powered multimodal generation. Create stunning text, images, and videos optimized for every platform—all in seconds, completely free.
 
-## 🎥 Demo Videos
-
-<div style="display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px; justify-content: center; margin: 2rem 0; overflow-x: auto; padding: 20px 0;">
-  <div style="flex: 0 0 500px; min-width: 0;">
-    <h3 style="text-align: center; margin-bottom: 15px;">For Technical Users</h3>
-    <a href="https://www.youtube.com/watch?i5MN8W6xBjw" target="_blank" style="display: block;">
-      <img src="https://img.youtube.com/vi/i5MN8W6xBjw/maxresdefault.jpg" alt="Technical Demo" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-    </a>
-  </div>
-  
-  <div style="flex: 0 0 500px; min-width: 0;">
-    <h3 style="text-align: center; margin-bottom: 15px;">For Non-Technical Users</h3>
-    <a href="https://youtu.be/i0wvofuzU-Y" target="_blank" style="display: block;">
-      <img src="https://img.youtube.com/vi/i0wvofuzU-Y/maxresdefault.jpg" alt="User Demo" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
-    </a>
-  </div>
-</div>
-
 
 ## 🚀 Features
 
